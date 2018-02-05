@@ -3,14 +3,14 @@
     "publishingInformation": {
       "locales": {
         "en-US": {
-          "summary": "Sample Short Description",
+          "summary": "Stoner Prairie Trivia",
           "examplePhrases": [
-            "Alexa open reindeer trivia",
-            "Alexa tell reindeer trivia to start a game",
-            "Alexa tell reindeer trivia I want to play"
+            "Alexa open stoner prairie trivia",
+            "Alexa tell stoner prairie trivia to start a game",
+            "Alexa tell stoner prairie trivia I want to play"
           ],
-          "name": "reindeer trivia",
-          "description": "Sample Full Description"
+          "name": "Stoner Prairie Trivia",
+          "description": "A trivia game about Stoner Prairie Elementary School"
         }
       },
       "isAvailableWorldwide": true,
